@@ -1,0 +1,22 @@
+# Build directories
+/build/
+/cmake-build-*/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
